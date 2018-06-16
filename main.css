@@ -1,3 +1,16 @@
+body, html {
+    height: 110%;
+    font-family: "Inconsolata", sans-serif;
+}
+.bgimg {
+    background-position: center;
+    background-size: cover;
+    background-image: url("http://revistavive.com/wp-content/uploads/2016/12/familia.png");
+    min-height: 75%;
+}
+.menu {
+    display: none;
+}
 html{box-sizing:border-box}*,*:before,*:after{box-sizing:inherit}
 html{-ms-text-size-adjust:100%;-webkit-text-size-adjust:100%}body{margin:0}
 article,aside,details,figcaption,figure,footer,header,main,menu,nav,section,summary{display:block}
